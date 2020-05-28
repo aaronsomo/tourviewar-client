@@ -29,7 +29,7 @@ For Android:
 
 ```sh
 git clone https://github.com/aaronsomo/tourviewar-client
-cd into tourview-client
+cd into tourviewar-client
 ```
 
 ### Install and setup dependencies
