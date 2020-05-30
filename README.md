@@ -6,7 +6,7 @@ TourViewAR is a mobile AR app that allows users to experience tours of 360 degre
 <img src="images/createtours.gif" width="33%"/><img src="images/viewtour.gif" width="33%"/><img src="images/ny2.gif" width="33%"/>
 <br/><br/>
 
-This repository contains the front end source code, built using ViroReact, Redux, and React Native CLI. There is a separate git project deployed to AWS EBS which serves as the [backend server](https://github.com/liu-austin/TourViewARServer_alpha).
+This repository contains the front end source code, built using ViroReact, Redux, and React Native CLI. There is a separate git project deployed to AWS EBS which serves as the [backend server](https://github.com/aaronsomo/tourviewar-server).
 
 ## Installation
 
