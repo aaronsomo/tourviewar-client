@@ -50,7 +50,7 @@ npm install
 
 ### Running the app
 
-For IOS:
+#### For IOS:
 
 1. Connect IPhone to mac computer if not running on simulator (note: AR scenes will not work in simulators).
 2. In XCode, open /ios/tourViewARClient.xcworkspace.
@@ -60,15 +60,16 @@ For IOS:
 6. When build has successfully completed, on IPhone go to Settings/General/Profiles & Device Management and trust the developer for TourViewAR
 7. Launch TourViewAR app on device.
    <br/><br/>
-   For Android:
-8. Go to Settings/ About Phone and tap Build Number row at the bottom seven times. Go to settings/Developer options to enable "USB debugging".
-9. Connect Android device to computer if not running on simulator (note: AR scenes will not work in simulators).
-10. Check device is connected to ADB by running: adb devices
-11. Run:
+#### For Android:
+
+1. Go to Settings/ About Phone and tap Build Number row at the bottom seven times. Go to settings/Developer options to enable "USB debugging".
+2. Connect Android device to computer if not running on simulator (note: AR scenes will not work in simulators).
+3. Check device is connected to ADB by running: adb devices
+4. Run:
     ```sh
     react-native run-android
     ```
-12. Launch TourViewAR app on device.
+5. Launch TourViewAR app on device.
 
 ## Download the App
 
