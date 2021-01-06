@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "native-base": "^2.13.8",
     "react": "16.8.3",
     "react-native": "0.59.9",
